@@ -1,6 +1,9 @@
 # pytorch-siamese
 
-This is a port of [chainer-siamese](https://github.com/mitmul/chainer-siamese)
+This is a port of [chainer-siamese](https://github.com/mitmul/chainer-siamese) and
+a fork of [pytorch-siamese](https://github.com/delijati/pytorch-siamese). It implements
+additional training datasets, as well as few-shot prediction code for the siamese 
+network. 
 
 ## Install
 
