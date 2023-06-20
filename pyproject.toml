@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A few-shot learning experiment using Siamese networks."
 authors = ["Alexander Berger <berger.ale@northeastern.edu, alexander.berger@jax.org>"]
 readme = "README.md"
-license = "Apache-2.0"
+license = "MIT"
 homepage = "https://bergsalex.github.io/geneweaver-docs/"
 repository = "https://github.com/bergsalex/geneweaver-tools"
 packages = [{include = "roux_siamese_few_shot", from = "src"}]
